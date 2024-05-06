@@ -1,0 +1,220 @@
+Jan	01/01/2003	New Year's Day	New Year's Day		
+Feb	02/10/2003	Family Day	Family Day		
+Apr	04/18/2003	Good Friday	Good Friday	
+May	05/19/2003	Victoria Day	Victoria Day	
+Jul	07/01/2003	Canada Day	Canada Day		
+Aug	08/04/2003	Civic Holiday	Civic Holiday
+Sep	09/01/2003	Labour Day	Labour Day
+Sep	09/30/2003	National Day for Truth and Reconciliation	National Day for Truth and Reconciliation
+Oct	10/13/2003	Thanksgiving	Thanksgiving
+Nov	11/11/2003	Remembrance Day	Remembrance Day
+Dec	12/25/2003	Christmas Day	Christmas Day	
+Jan	01/01/2004	New Year's Day	New Year's Day	
+Feb	02/09/2004	Family Day	Family Day
+Apr	04/09/2004	Good Friday	Good Friday	
+May	05/24/2004	Victoria Day	Victoria Day	
+Jul	07/01/2004	Canada Day	Canada Day		
+Aug	08/02/2004	Civic Holiday	Civic Holiday
+Sep	09/06/2004	Labour Day	Labour Day	
+Sep	09/30/2004	National Day for Truth and Reconciliation	National Day for Truth and Reconciliation	
+Oct	10/11/2004	Thanksgiving	Thanksgiving	
+Nov	11/11/2004	Remembrance Day	Remembrance Day
+Dec	12/25/2004	Christmas Day	Christmas Day	
+Jan	01/01/2005	New Year's Day	New Year's Day		
+Feb	02/14/2005	Family Day	Family Day	
+Mar	03/25/2005	Good Friday	Good Friday	
+May	05/23/2005	Victoria Day	Victoria Day		
+Jul	07/01/2005	Canada Day	Canada Day		
+Aug	08/01/2005	Civic Holiday	Civic Holiday
+Sep	09/05/2005	Labour Day	Labour Day	
+Sep	09/30/2005	National Day for Truth and Reconciliation	National Day for Truth and Reconciliation	
+Oct	10/10/2005	Thanksgiving	Thanksgiving		
+Nov	11/11/2005	Remembrance Day	Remembrance Day
+Dec	12/25/2005	Christmas Day	Christmas Day
+Jan	01/01/2006	New Year's Day	New Year's Day		
+Feb	02/13/2006	Family Day	Family Day		
+Apr	04/14/2006	Good Friday	Good Friday		
+Jul	07/01/2006	Canada Day	Canada Day		
+Aug	08/07/2006	Civic Holiday	Civic Holiday
+Sep	09/04/2006	Labour Day	Labour Day		
+Sep	09/30/2006	National Day for Truth and Reconciliation	National Day for Truth and Reconciliation		
+Oct	10/09/2006	Thanksgiving	Thanksgiving	
+Nov	11/11/2006	Remembrance Day	Remembrance Day
+Dec	12/25/2006	Christmas Day	Christmas Day
+Jan	01/01/2007	New Year's Day	New Year's Day		
+Feb	02/12/2007	Family Day	Family Day		
+Apr	04/06/2007	Good Friday	Good Friday
+May	05/21/2007	Victoria Day	Victoria Day
+Jul	07/01/2007	Canada Day	Canada Day
+Aug	08/06/2007	Civic Holiday	Civic Holiday
+Sep	09/03/2007	Labour Day	Labour Day	
+Sep	09/30/2007	National Day for Truth and Reconciliation	National Day for Truth and Reconciliation	
+Oct	10/08/2007	Thanksgiving	Thanksgiving
+Nov	11/11/2007	Remembrance Day	Remembrance Day
+Dec	12/25/2007	Christmas Day	Christmas Day	
+Jan	01/01/2008	New Year's Day	New Year's Day		
+Feb	02/11/2008	Family Day	Family Day		
+Mar	03/21/2008	Good Friday	Good Friday		
+May	05/19/2008	Victoria Day	Victoria Day	
+Jul	07/01/2008	Canada Day	Canada Day		
+Aug	08/04/2008	Civic Holiday	Civic Holiday
+Sep	09/01/2008	Labour Day	Labour Day		
+Sep	09/30/2008	National Day for Truth and Reconciliation	National Day for Truth and Reconciliation		
+Oct	10/13/2008	Thanksgiving	Thanksgiving	
+Nov	11/11/2008	Remembrance Day	Remembrance Day
+Dec	12/25/2008	Christmas Day	Christmas Day	
+Jan	01/01/2009	New Year's Day	New Year's Day	
+Feb	02/09/2009	Family Day	Family Day		
+Apr	04/10/2009	Good Friday	Good Friday	
+May	05/18/2009	Victoria Day	Victoria Day		
+Jul	07/01/2009	Canada Day	Canada Day		
+Aug	08/03/2009	Civic Holiday	Civic Holiday	
+Sep	09/07/2009	Labour Day	Labour Day	
+Sep	09/30/2009	National Day for Truth and Reconciliation	National Day for Truth and Reconciliation	
+Oct	10/12/2009	Thanksgiving	Thanksgiving	
+Nov	11/11/2009	Remembrance Day	Remembrance Day	
+Dec	12/25/2009	Christmas Day	Christmas Day	
+Jan	01/01/2010	New Year's Day	New Year's Day		
+Feb	02/08/2010	Family Day	Family Day		
+Apr	04/02/2010	Good Friday	Good Friday		
+May	05/24/2010	Victoria Day	Victoria Day	
+Jul	07/01/2010	Canada Day	Canada Day		
+Aug	08/02/2010	Civic Holiday	Civic Holiday	
+Sep	09/06/2010	Labour Day	Labour Day	
+Sep	09/30/2010	National Day for Truth and Reconciliation	National Day for Truth and Reconciliation		
+Oct	10/11/2010	Thanksgiving	Thanksgiving	
+Nov	11/11/2010	Remembrance Day	Remembrance Day
+Dec	12/25/2010	Christmas Day	Christmas Day
+Jan	01/01/2011	New Year's Day	New Year's Day		
+Feb	02/14/2011	Family Day	Family Day		
+Apr	04/22/2011	Good Friday	Good Friday
+May	05/23/2011	Victoria Day	Victoria Day	
+Jul	07/01/2011	Canada Day	Canada Day	
+Aug	08/01/2011	Civic Holiday	Civic Holiday
+Sep	09/05/2011	Labour Day	Labour Day	
+Sep	09/30/2011	National Day for Truth and Reconciliation	National Day for Truth and Reconciliation		
+Oct	10/10/2011	Thanksgiving	Thanksgiving	
+Nov	11/11/2011	Remembrance Day	Remembrance Day	
+Dec	12/25/2011	Christmas Day	Christmas Day	
+Jan	01/01/2012	New Year's Day	New Year's Day		
+Feb	02/13/2012	Family Day	Family Day		
+Apr	04/06/2012	Good Friday	Good Friday	
+May	05/21/2012	Victoria Day	Victoria Day		
+Jul	07/01/2012	Canada Day	Canada Day		
+Aug	08/06/2012	Civic Holiday	Civic Holiday		
+Sep	09/03/2012	Labour Day	Labour Day		
+Sep	09/30/2012	National Day for Truth and Reconciliation	National Day for Truth and Reconciliation		
+Oct	10/08/2012	Thanksgiving	Thanksgiving
+Nov	11/11/2012	Remembrance Day	Remembrance Day		
+Dec	12/25/2012	Christmas Day	Christmas Day	
+Jan	01/01/2013	New Year's Day	New Year's Day		
+Feb	02/11/2013	Family Day	Family Day		
+Mar	03/29/2013	Good Friday	Good Friday		
+May	05/20/2013	Victoria Day	Victoria Day	
+Jul	07/01/2013	Canada Day	Canada Day	
+Aug	08/05/2013	Civic Holiday	Civic Holiday	
+Sep	09/02/2013	Labour Day	Labour Day	
+Sep	09/30/2013	National Day for Truth and Reconciliation	National Day for Truth and Reconciliation	
+Oct	10/14/2013	Thanksgiving	Thanksgiving	
+Nov	11/11/2013	Remembrance Day	Remembrance Day		
+Dec	12/25/2013	Christmas Day	Christmas Day	
+Jan	01/01/2014	New Year's Day	New Year's Day
+Feb	02/10/2014	Family Day	Family Day		
+Apr	04/18/2014	Good Friday	Good Friday	
+May	05/19/2014	Victoria Day	Victoria Day
+Jul	07/01/2014	Canada Day	Canada Day	
+Aug	08/04/2014	Civic Holiday	Civic Holiday		
+Sep	09/01/2014	Labour Day	Labour Day	
+Sep	09/30/2014	National Day for Truth and Reconciliation	National Day for Truth and Reconciliation	
+Oct	10/13/2014	Thanksgiving	Thanksgiving
+Nov	11/11/2014	Remembrance Day	Remembrance Day	
+Dec	12/25/2014	Christmas Day	Christmas Day	
+Jan	01/01/2015	New Year's Day	New Year's Day		
+Feb	02/09/2015	Family Day	Family Day
+Apr	04/03/2015	Good Friday	Good Friday	
+May	05/18/2015	Victoria Day	Victoria Day
+Jul	07/01/2015	Canada Day	Canada Day	
+Aug	08/03/2015	Civic Holiday	Civic Holiday
+Sep	09/07/2015	Labour Day	Labour Day	
+Sep	09/30/2015	National Day for Truth and Reconciliation	National Day for Truth and Reconciliation		
+Oct	10/12/2015	Thanksgiving	Thanksgiving
+Nov	11/11/2015	Remembrance Day	Remembrance Day	
+Jan	01/01/2016	New Year's Day	New Year's Day	
+Feb	02/08/2016	Family Day	Family Day		
+Mar	03/25/2016	Good Friday	Good Friday
+May	05/23/2016	Victoria Day	Victoria Day
+Jul	07/01/2016	Canada Day	Canada Day	
+Aug	08/01/2016	Civic Holiday	Civic Holiday		
+Sep	09/05/2016	Labour Day	Labour Day	
+Sep	09/30/2016	National Day for Truth and Reconciliation	National Day for Truth and Reconciliation		
+Oct	10/10/2016	Thanksgiving	Thanksgiving
+Nov	11/11/2016	Remembrance Day	Remembrance Day		
+Dec	12/25/2016	Christmas Day	Christmas Day
+Jan	01/01/2017	New Year's Day	New Year's Day	
+Feb	02/13/2017	Family Day	Family Day	
+Apr	04/14/2017	Good Friday	Good Friday
+May	05/22/2017	Victoria Day	Victoria Day
+Jul	07/01/2017	Canada Day	Canada Day	
+Aug	08/07/2017	Civic Holiday	Civic Holiday	
+Sep	09/04/2017	Labour Day	Labour Day	
+Sep	09/30/2017	National Day for Truth and Reconciliation	National Day for Truth and Reconciliation		
+Oct	10/09/2017	Thanksgiving	Thanksgiving
+Nov	11/11/2017	Remembrance Day	Remembrance Day	
+Dec	12/25/2017	Christmas Day	Christmas Day
+Jan	01/01/2018	New Year's Day	New Year's Day
+Feb	02/12/2018	Family Day	Family Day		
+Mar	03/30/2018	Good Friday	Good Friday	
+May	05/21/2018	Victoria Day	Victoria Day	
+Jun	06/21/2018	National Aboriginal Day	National Aboriginal Day	
+Jul	07/01/2018	Canada Day	Canada Day
+Aug	08/06/2018	Civic Holiday	Civic Holiday		
+Sep	09/03/2018	Labour Day	Labour Day		
+Sep	09/30/2018	National Day for Truth and Reconciliation	National Day for Truth and Reconciliation		
+Oct	10/08/2018	Thanksgiving	Thanksgiving	
+Nov	11/11/2018	Remembrance Day	Remembrance Day		
+Dec	12/25/2018	Christmas Day	Christmas Day	
+Jan	01/01/2019	New Year's Day	New Year's Day	
+Feb	02/18/2019	Family Day	Family Day		
+Apr	04/19/2019	Good Friday	Good Friday
+May	05/20/2019	Victoria Day	Victoria Day	
+Jul	07/01/2019	Canada Day	Canada Day	
+Aug	08/05/2019	Civic Holiday	Civic Holiday	
+Sep	09/02/2019	Labour Day	Labour Day		
+Sep	09/30/2019	National Day for Truth and Reconciliation	National Day for Truth and Reconciliation		
+Oct	10/14/2019	Thanksgiving	Thanksgiving		
+Nov	11/11/2019	Remembrance Day	Remembrance Day		
+Dec	12/25/2019	Christmas Day	Christmas Day
+Jan	01/01/2020	New Year's Day	New Year's Day	
+Feb	02/17/2020	Family Day	Family Day		
+Apr	04/10/2020	Good Friday	Good Friday
+May	05/18/2020	Victoria Day	Victoria Day	
+Jul	07/01/2020	Canada Day	Canada Day	
+Aug	08/03/2020	Civic Holiday	Civic Holiday	
+Sep	09/07/2020	Labour Day	Labour Day		
+Sep	09/30/2020	National Day for Truth and Reconciliation	National Day for Truth and Reconciliation		
+Oct	10/12/2020	Thanksgiving	Thanksgiving
+Nov	11/11/2020	Remembrance Day	Remembrance Day		
+Dec	12/25/2020	Christmas Day	Christmas Day	
+Jan	01/01/2021	New Year's Day	New Year's Day	
+Feb	02/15/2021	Family Day	Family Day		
+Apr	04/02/2021	Good Friday	Good Friday	
+May	05/24/2021	Victoria Day	Victoria Day	
+Jul	07/01/2021	Canada Day	Canada Day	
+Aug	08/02/2021	Civic Holiday	Civic Holiday		
+Sep	09/06/2021	Labour Day	Labour Day	
+Sep	09/30/2021	National Day for Truth and Reconciliation	National Day for Truth and Reconciliation	
+Oct	10/11/2021	Thanksgiving	Thanksgiving
+Nov	11/11/2021	Remembrance Day	Remembrance Day		
+Dec	12/25/2021	Christmas Day	Christmas Day	
+Jan	01/01/2022	New Year's Day	New Year's Day	
+Feb	02/21/2022	Family Day	Family Day		
+Apr	04/15/2022	Good Friday	Good Friday	
+May	05/23/2022	Victoria Day	Victoria Day	
+Jul	07/01/2022	Canada Day	Canada Day	
+Aug	08/01/2022	Civic Holiday	Civic Holiday		
+Sep	09/05/2022	Labour Day	Labour Day	
+Sep	09/19/2022	State Funeral of Queen Elizabeth II	State Funeral of Queen Elizabeth II		
+Sep	09/30/2022	National Day for Truth and Reconciliation	National Day for Truth and Reconciliation		
+Oct	10/10/2022	Thanksgiving	Thanksgiving	
+Nov	11/11/2022	Remembrance Day	Remembrance Day		
+Dec	12/25/2022	Christmas Day	Christmas Day	

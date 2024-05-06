@@ -1,0 +1,122 @@
+Problem Definition 
+
+Our project aims at providing crime analytics for assisting the Vancouver Police Department in better crime 
+patrolling across neighborhoods in Vancouver, along with providing predictions of types of crimes for the safety 
+of the citizens.  Our data is being sourced from the official Vancouver Police Department Website. The data ranges from 2003 to 2022.  
+
+Our app - https://rsa-dashapp.herokuapp.com/
+
+########################################################
+
+To run our app locally use
+
+python app.py
+
+To run the Pyspark file dynamic_visualization_creator which creates tables for particular visualizations which will be used by the Dash App.
+
+spark-submit --jars mysql-connector-j-8.0.31.jar dynamic_visualization_creator.py
+
+
+Note- You need to download the mysql-connector-j-8.0.31.jar or you can also use the mysql-connector-j-8.0.31.jar 
+which is in the repo. The jar file needs to be in the same directory as Pyspark file.
+ 
+#########################################################
+
+The PySpark files and Jupyter notebook are as follows:-
+
+For data cleaning script run -
+
+spark-submit data_cleaning_spark.py crimedata_csv_AllNeighbourhoods_AllYears.csv cleaned_data
+
+Note 
+1. Saving the cleaned data on the database would take time, hence it has been saved using cleaned_data locally.
+2. Used raw data(crimedata_csv_AllNeighbourhoods_AllYears.csv) 
+that can be obtained from - https://drive.google.com/file/d/1B5nTNK-kRa3_bXBlp3Diam-5avhX5cKM/view?usp=share_link
+
+#########################################################
+
+For experimenting with the Pyspark Visualizations data, run the following scripts -
+
+1. district_wise_hcc.py : The following code calculates the Total Crime count across all VPD Districts for years 2020-2022.
+
+spark-submit --jars mysql-connector-j-8.0.31.jar district_wise_hcc.py
+
+2. max_blk_crime_1_district.py : The following code is used to identify the most crime-hit 100-blocks across the least crime-hit VPD District (District 2) for the years 2020-2022.
+
+spark-submit --jars mysql-connector-j-8.0.31.jar max_blk_crime_1_district.py
+
+3. district2_coords.py : The following code aggregates the co-ordinates of least crime-hit VPD District ( District 2) for Folium Map Analysis.
+
+spark-submit --jars mysql-connector-j-8.0.31.jar district2_coords.py op
+
+4. district2_nbrhood_coords.py : The following code aggregates the co-ordinates of the most crime-hit 100-blocks in District 2 (Least crime-hit VPD District) for Folium Map Analysis.
+
+spark-submit --jars mysql-connector-j-8.0.31.jar district2_nbrhood_coords.py
+
+5. finding_most_crime.py : Finding the total crimes for each of the four districts for the last three years 2020-2022.
+
+spark-submit --jars mysql-connector-j-8.0.31.jar finding_most_crime.py
+
+6. holiday_analysis.py : Finding the total crimes that happened on the top three holidays, ranging for the last twenty years 
+
+spark-submit --jars mysql-connector-j-8.0.31.jar holiday_analysis.py holidays.txt
+
+#############################################################
+
+For our machine learning codes, the ML model can be tested from our dash app. However, a pyspark script was written as well.
+
+This can be run through -
+
+1. CrimePrediction.py : The following SparkML code generates/saves the SparkML Model used for Crime-Type prediction across Vancouver.
+
+Note: Use the following command to run the code (jar file and model_file needed)
+spark-submit --jars mysql-connector-j-8.0.31.jar CrimePrediction.py Crime_model
+
+2. CrimePrediction_test.py : The following SparkML utilizes the saved Crime Model (during training and validation)
+and make predictions to the test data.
+
+Note: Use the following command to run the code (only model_file needed)
+spark-submit CrimePrediction_test.py Crime_model
+
+3. RSA_MachineLearning_Pandas.ipynb :
+A demonstration of how our pickle file was generated for our model used in the dash app
+
+The Jupyter notebook demonstrates the Crime Prediction across Vancouver 
+using Scikit-Learn (KNN and Random Forest classifiers) and Pandas. The code is also used to generate the .pkl file
+for integrating with Dash Frontend.
+
+
+
+
+
+###########################################
+
+For seeing our hosted data use the following IAM user for AWS RDS - with password, to see the tables used
+IAM Role for TA and Faculty:-
+
+User name - Public
+Password - rsa12345@
+
+AWS RDS - remote connection
+host - http://opvd.ceeldi77ur7c.us-west-2.rds.amazonaws.com/
+port - 3306
+username - admin
+password - rsa12345
+
+###########################################
+
+For checking our hosted heroku app, you can access
+
+https://dashboard.heroku.com/apps/rsa-dashapp
+
+Access has been given to all
+
+#########################################
+
+https://github.com/Siddharth-14/RSA_CMPT732_Project.git
+
+This is the github repo we are using to link to Heroku to host the website.
+
+
+
+
